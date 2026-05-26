@@ -8,6 +8,10 @@ venv/
 ENV/
 .env
 
+
+trabalho_3/*
+!trabalho_3/*.ipynb
+
 # Dados e Datasets (Ocupando 1.1GB na sua imagem)
 data/
 *.csv
